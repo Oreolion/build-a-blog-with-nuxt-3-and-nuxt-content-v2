@@ -3,7 +3,7 @@ title: "What is a Counter?"
 author: "@Luisa"
 dates:
     published: "2022 06 31"
-description: "This is a short Description about my Counter Post"
+description: This is a short Description about my Counter Post
 ---
 
 ## What is a counter?
